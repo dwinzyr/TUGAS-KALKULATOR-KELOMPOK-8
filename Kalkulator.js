@@ -12,4 +12,8 @@ if(Metode == 1){
     var Angka1 = input.questionInt('Masukan angka Ke 1:')
     var Angka2 = input.questionInt('Masukan angka Ke 2:')
     console.log(Angka1-Angka2)
+}else if(Metode == 3){
+    var Angka1 = input.questionInt('Masukan angka Ke 1:')
+    var Angka2 = input.questionInt('Masukan angka Ke 2:')
+    console.log(Angka1*Angka2)
 }
