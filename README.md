@@ -1,3 +1,3 @@
 # TUGAS-KALKULATOR-KELOMPOK-8
-Dwi ananda
+Dwi ananda dan
 Sofia
